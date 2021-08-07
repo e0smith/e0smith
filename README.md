@@ -1,5 +1,5 @@
 <h1 align="center"> Hi, I'm Edward Smith-Silvia 👋 </h1>
-<h3 align="center">A passionate full-stack software engineer from Torrington, CT </h3>
+<h3 align="center">A passionate full-stack software engineer from Connecticut </h3>
 <h4 align="center">
 
 🌱 I’m currently learning algorithms and python 
