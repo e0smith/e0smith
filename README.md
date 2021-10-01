@@ -6,7 +6,7 @@
 
 🎓 I recently graduated from the Flatiron School's full stack online software engineering course
 
-💬 Ask me about Ruby, Sinatra, Javascript, Rails, HTML, CSS
+💬 Ask me about Ruby, Rails, Javascript, React, Redux, SQL, HTML, CSS
 
 📝 I write blog posts on projects and topics I come across while learning at <a href="https://dev.to/e0smith" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="e0smith" height="30" width="40" /></a>
 
