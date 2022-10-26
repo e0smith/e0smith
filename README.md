@@ -1,15 +1,3 @@
-<h1 align="center"> Hi, I'm Edward Smith-Silvia 👋 </h1>
-<h3 align="center">A passionate full-stack software engineer from Connecticut </h3>
-<h4 align="center">
-
-🌱 I’m currently learning algorithms and python 
-
-🎓 I recently graduated from the Flatiron School's full stack online software engineering course
-
-💬 Ask me about Ruby, Rails, Javascript, React, Redux, SQL, HTML, CSS
-
-📝 I write blog posts on projects and topics I come across while learning at <a href="https://dev.to/e0smith" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="e0smith" height="30" width="40" /></a>
-
 📫 How to reach me: esmithsilvia@gmail.com or on <a href="https://www.linkedin.com/in/edwardsmithsilvia/">linkedin</a>
 
 
